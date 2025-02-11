@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suhas-29?tab=repositories](https://github.com/suhas-29?tab=repositories)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **https://www.instagram.com/nilesh_gawade_98/)/**
 
