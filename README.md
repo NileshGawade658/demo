@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suhas-29?tab=repositories](https://github.com/suhas-29?tab=repositories)
 
-- 📫 How to reach me **https://www.instagram.com/suhas2_9_/**
+- 📫 How to reach me **https://www.instagram.com/nilesh_gawade_98/)/**
 
 
 <h3 align="left">Languages and Tools:</h3>
